@@ -1,0 +1,2 @@
+# Mereki
+Instalacion inicial
